@@ -8,9 +8,10 @@
     border: crimson;
     border-width: 10px;
     border-style: ridge;
-    margin-top: 20%;
+    margin-top: 15%;
     margin-left: 45%;
     border-radius: 50%;
+    position: absolute;
 }
 #content{
     background-color:skyblue;
@@ -28,6 +29,7 @@
     margin-top: 10px;
     margin-left: 10px;
     background-color: indigo;
+    
 }
 #button:hover{
     background-color: white;
